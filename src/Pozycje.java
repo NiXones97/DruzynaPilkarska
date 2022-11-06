@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public enum Pozycje {
+public enum Pozycje {
+    obronca,
+    pomocnik,
+    napastnik,
+    bramkarz;
+
 }

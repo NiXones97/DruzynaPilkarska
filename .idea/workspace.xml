@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8faa4b9-7d61-4a7b-b423-36b6c467f09d" name="Changes" comment="" />
+    <list default="true" id="a8faa4b9-7d61-4a7b-b423-36b6c467f09d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DruzynaPilkarska.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Druzyna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lekarz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mecz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Psycholog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sezon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zawodnik.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HBT671G6aFiz0Xpr6Cd3UhuF7k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
